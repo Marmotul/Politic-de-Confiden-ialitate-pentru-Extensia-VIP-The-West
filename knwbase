@@ -35,10 +35,16 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 
 ##  Cultural and Regional Considerations
 
+### Professional English Terms in International Communications
+**CRITICAL RULE**: Use English business terms when local translations sound unprofessional or unclear:
+- **Subject lines**: Always use "Follow-up" instead of local translations like "Urmărire facturi" (Romanian), "Nachverfolgung" (German)
+- **Business terms**: Keep "Overdue", "Payment Request", "Invoice" when they sound more professional
+- **Mixed approach**: Professional English terms + local language content for clarity and authority
+
 ### European Markets (Primary Focus)
 - **Germany**: Direct, formal communication; punctuality emphasis
 - **Poland**: Respectful but firm; relationship acknowledgment important
-- **Romania**: Personal touch appreciated; business formality maintained
+- **Romania**: Personal touch appreciated; business formality maintained; avoid overly flowery language
 - **Hungary**: Professional courtesy; clear consequences explanation
 - **Bulgaria**: Respectful approach; detailed explanations valued
 
@@ -74,7 +80,9 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 ### Professional Tone Guidelines
 - **Authority**: Speak as a Credit Analyst with expertise
 - **Confidence**: Clear, decisive language without apologies
-- **Respect**: Maintain business relationship focus
+- **Directness**: Get straight to the point - avoid excessive politeness and fluff
+- **NO ROBOTIC LANGUAGE**: Avoid phrases like "I hope this finds you well", "collaboration between teams", "we appreciate our partnership"
+- **Business Focus**: Maintain professional relationship without ass-kissing language
 - **Urgency**: Appropriate escalation based on situation severity
 - **Clean Format**: NO emojis, symbols, or signature blocks in email content
 - **Customer Reference**: Refer to "your account" - avoid mentioning customer company name
@@ -83,10 +91,10 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 ```
 "Our records indicate..."
 "Could you please share the estimated payment date..."
-"To maintain our business relationship..."
-"We would appreciate your attention to..."
-"We value our partnership and look forward to resolving..."
+"I am writing regarding your account status..."
+"Please contact me directly if you have any questions..."
 "If there is any specific reason for the delay, please let us know..."
+"Please respond within [timeframe]..."
 ```
 
 ### Language Patterns to Avoid
@@ -96,6 +104,11 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 "Sorry for the inconvenience..."
 "We hope you understand..."
 "Please excuse..."
+"I hope this message finds you well..."
+"We value our partnership and..."
+"We appreciate our collaboration..."
+"We look forward to continuing our successful relationship..."
+"Revin cu un mesaj privind situația contului dumneavoastră, în contextul colaborării continue..."
 "This may affect processing of new orders..."
 "Credit terms may be revised..."
 "Additional collection measures will be implemented..."
@@ -264,6 +277,9 @@ IF previous_emails >= 3 AND no_response THEN escalate_urgency
 - Check for sales relationship preservation
 - Confirm contact information inclusion
 - Avoid aggressive or threatening language patterns
+- **NO ROBOTIC/FLUFF LANGUAGE**: Eliminate "collaboration", "partnership appreciation", "hope this finds you well"
+- **USE PROFESSIONAL ENGLISH TERMS**: Keep "Follow-up", "Overdue" in subject lines even in translated emails
+- **DIRECT COMMUNICATION**: Get to the point without excessive politeness
 - Ensure NO emojis, symbols, or signature blocks
 - Verify customer is referred to as "your account" not by company name
 
