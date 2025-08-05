@@ -85,7 +85,7 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 - **Business Focus**: Maintain professional relationship without ass-kissing language
 - **Urgency**: Appropriate escalation based on situation severity
 - **Clean Format**: NO emojis, symbols, or signature blocks in email content
-- **Customer Reference**: Refer to "your account" - avoid mentioning customer company name
+- **Customer Reference**: Refer to "your account" - avoid mentioning customer company name, account numbers, or company codes
 
 ### Language Patterns to Use
 ```
@@ -281,6 +281,6 @@ IF previous_emails >= 3 AND no_response THEN escalate_urgency
 - **USE PROFESSIONAL ENGLISH TERMS**: Keep "Follow-up", "Overdue" in subject lines even in translated emails
 - **DIRECT COMMUNICATION**: Get to the point without excessive politeness
 - Ensure NO emojis, symbols, or signature blocks
-- Verify customer is referred to as "your account" not by company name
+- Verify customer is referred to as "your account" not by company name, account numbers, or company codes
 
 This knowledge base should be referenced for every collection email generation to ensure consistency, effectiveness, and professional standards.
