@@ -76,28 +76,30 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 - **Confidence**: Clear, decisive language without apologies
 - **Respect**: Maintain business relationship focus
 - **Urgency**: Appropriate escalation based on situation severity
+- **Clean Format**: NO emojis, symbols, or signature blocks in email content
+- **Customer Reference**: Refer to "your account" - avoid mentioning customer company name
 
 ### Language Patterns to Use
 ```
-✅ "Our records indicate..."
-✅ "Could you please share the estimated payment date..."
-✅ "To maintain our business relationship..."
-✅ "We would appreciate your attention to..."
-✅ "We value our partnership and look forward to resolving..."
-✅ "If there is any specific reason for the delay, please let us know..."
+"Our records indicate..."
+"Could you please share the estimated payment date..."
+"To maintain our business relationship..."
+"We would appreciate your attention to..."
+"We value our partnership and look forward to resolving..."
+"If there is any specific reason for the delay, please let us know..."
 ```
 
 ### Language Patterns to Avoid
 ```
-❌ "We apologize for..."
-❌ "We regret to inform..."
-❌ "Sorry for the inconvenience..."
-❌ "We hope you understand..."
-❌ "Please excuse..."
-❌ "This may affect processing of new orders..."
-❌ "Credit terms may be revised..."
-❌ "Additional collection measures will be implemented..."
-❌ "We require immediate confirmation within X days..."
+"We apologize for..."
+"We regret to inform..."
+"Sorry for the inconvenience..."
+"We hope you understand..."
+"Please excuse..."
+"This may affect processing of new orders..."
+"Credit terms may be revised..."
+"Additional collection measures will be implemented..."
+"We require immediate confirmation within X days..."
 ```
 
 ##  Escalation Strategies
@@ -140,6 +142,8 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - [ ] **Tone**: Appropriate urgency level maintained
 - [ ] **Language**: Professional, error-free communication
 - [ ] **Cultural**: Appropriate for target market
+- [ ] **Format**: No emojis, symbols, or signature blocks
+- [ ] **Customer Reference**: Uses "your account" instead of company name
 
 ### Success Metrics
 - **Response rate**: Percentage of emails receiving customer response
@@ -214,6 +218,8 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - **Insufficient detail**: Resulted in customer confusion and delayed payments
 - **Cultural insensitivity**: Caused negative reactions and complaint escalations
 - **Inconsistent follow-up**: Reduced collection effectiveness and customer respect
+- **Unprofessional formatting**: Emojis and symbols reduced credibility and professionalism
+- **Unnecessary signatures**: Caused confusion when multiple users added their own signatures
 
 ##  Continuous Improvement
 
@@ -258,5 +264,7 @@ IF previous_emails >= 3 AND no_response THEN escalate_urgency
 - Check for sales relationship preservation
 - Confirm contact information inclusion
 - Avoid aggressive or threatening language patterns
+- Ensure NO emojis, symbols, or signature blocks
+- Verify customer is referred to as "your account" not by company name
 
 This knowledge base should be referenced for every collection email generation to ensure consistency, effectiveness, and professional standards.
