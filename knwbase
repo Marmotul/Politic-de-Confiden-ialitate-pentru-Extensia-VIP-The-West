@@ -36,10 +36,14 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 ##  Cultural and Regional Considerations
 
 ### Professional English Terms in International Communications
-**CRITICAL RULE**: Use English business terms when local translations sound unprofessional or unclear:
-- **Subject lines**: Always use "Follow-up" instead of local translations like "Urmărire facturi" (Romanian), "Nachverfolgung" (German)
-- **Business terms**: Keep "Overdue", "Payment Request", "Invoice" when they sound more professional
-- **Mixed approach**: Professional English terms + local language content for clarity and authority
+**CRITICAL RULE**: Subject line translation with selective English terms:
+- **Subject lines**: Translate to target language BUT keep "Follow-up" in English when local translations sound unprofessional
+- **Examples**:
+  - Romanian: "7359317 – Follow-up facturi restante – Total: 13.442,25 EUR – Danfoss"
+  - German: "7359317 – Follow-up überfällige Rechnungen – Total: 13.442,25 EUR – Danfoss"
+  - Polish: "7359317 – Follow-up zaległe faktury – Total: 13.442,25 EUR – Danfoss"
+- **Business terms**: Keep "Overdue", "Payment Request", "Invoice" when they sound more professional in email content
+- **Mixed approach**: Professional English "Follow-up" + translated content for clarity and authority
 
 ### European Markets (Primary Focus)
 - **Germany**: Direct, formal communication; punctuality emphasis
