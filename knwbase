@@ -1,7 +1,7 @@
-# 📚 Collection Master AI Knowledge Base
+#  Collection Master AI Knowledge Base
 *Comprehensive reference for AI-powered collection email generation*
 
-## 🏢 Company Context: Danfoss
+##  Company Context: Danfoss
 
 ### About Danfoss
 - **Industry**: Industrial automation, climate solutions, and power management
@@ -15,7 +15,7 @@
 - **Order process**: Credit-based ordering system with blocking capabilities
 - **Account management**: Relationship-focused approach with professional communication
 
-## 💼 Collection Process Understanding
+##  Collection Process Understanding
 
 ### Collection Stages
 1. **Soft Reminder (U3)**: 1-15 days overdue - Relationship maintenance focus
@@ -33,7 +33,7 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 - **Customer retention**: Maintaining relationships while collecting payments (PRIMARY FOCUS)
 - **Sales relationship preservation**: Avoiding aggressive tactics that damage future business
 
-## 🌍 Cultural and Regional Considerations
+##  Cultural and Regional Considerations
 
 ### European Markets (Primary Focus)
 - **Germany**: Direct, formal communication; punctuality emphasis
@@ -49,7 +49,7 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 | Eastern European | Respectful, detailed | Relationship context, explanations | Aggressive language |
 | Nordic | Professional, concise | Efficiency focus, clear actions | Overly formal language |
 
-## 📊 Financial and Legal Framework
+##  Financial and Legal Framework
 
 ### Invoice Management
 - **Invoice format**: 10-digit numbers (e.g., 6100045614)
@@ -69,7 +69,7 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 - **Payment terms**: Negotiated terms varying by customer and region
 - **Risk assessment**: Ongoing evaluation of customer payment behavior
 
-## 🎯 Communication Best Practices
+##  Communication Best Practices
 
 ### Professional Tone Guidelines
 - **Authority**: Speak as a Credit Analyst with expertise
@@ -100,7 +100,7 @@ Friendly Reminder → Payment Date Inquiry → Supportive Follow-up → Respectf
 ❌ "We require immediate confirmation within X days..."
 ```
 
-## 📈 Escalation Strategies
+##  Escalation Strategies
 
 ### Progressive Communication Approach
 1. **Initial Contact**: Friendly reminder with relationship focus
@@ -118,7 +118,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - **U2 (Medium)**: 3-5 business days response expected  
 - **U1 (Urgent)**: 24-48 hours response required
 
-## 🔧 Technical Integration
+##  Technical Integration
 
 ### SAP System Integration
 - **Data extraction**: Automated invoice and payment data
@@ -132,7 +132,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - **Attachment handling**: SAP screenshots and invoice summaries
 - **Tracking**: Email delivery and response monitoring
 
-## 📋 Quality Assurance Framework
+##  Quality Assurance Framework
 
 ### Email Content Validation
 - [ ] **Accuracy**: All invoice numbers and amounts verified
@@ -147,7 +147,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - **Relationship preservation**: Maintained business relationships post-collection
 - **Escalation reduction**: Fewer cases requiring legal intervention
 
-## 🎨 Email Structure Templates
+##  Email Structure Templates
 
 ### Standard Email Architecture
 ```
@@ -186,7 +186,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 **Approach**: Comprehensive review with respectful urgency
 **Key elements**: Account history, relationship value, professional resolution request, assistance offer
 
-## 📞 Contact and Escalation Information
+##  Contact and Escalation Information
 
 ### Internal Escalation Path
 1. **Credit Analyst**: Initial collection attempts
@@ -200,7 +200,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - **Online portal**: Self-service payment and account information
 - **Regional offices**: Local language and cultural support
 
-## 🎯 Success Stories and Examples
+##  Success Stories and Examples
 
 ### Effective Communication Examples
 - **Relationship preservation**: Maintained 95% customer retention during collection
@@ -215,7 +215,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 - **Cultural insensitivity**: Caused negative reactions and complaint escalations
 - **Inconsistent follow-up**: Reduced collection effectiveness and customer respect
 
-## 🔄 Continuous Improvement
+##  Continuous Improvement
 
 ### Feedback Integration
 - **Customer responses**: Analyze feedback for tone and content improvement
@@ -231,7 +231,7 @@ Soft Reminder → Payment Date Inquiry → Supportive Follow-up → Respectful U
 
 ---
 
-## 🚀 Quick Reference for AI Implementation
+##  Quick Reference for AI Implementation
 
 ### Key Principles
 1. **Professional Authority**: Communicate as experienced Credit Analyst
